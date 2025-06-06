@@ -43,7 +43,12 @@ A comprehensive data analysis project for HighCloud Airlines, focusing on key op
 - **Tableau** – Storytelling dashboards and route analysis  
 - **PowerPoint** – Summary report for stakeholders
 
----
+--- 
+**Raw Data Source Link:**  
+[📥 Google Drive Link](https://drive.google.com/file/d/your_file_id/view?usp=sharing)](https://drive.google.com/file/d/1Yd67G04yxy7G-k_OBA-UggW3kjRgP2W2/view?usp=drive_link)
+**Excel Project File Link:**  
+https://docs.google.com/spreadsheets/d/1CAboTvrhOYyAoBkmNEu1vP4joySveUSU/edit?usp=drive_link&ouid=106845316903894594162&rtpof=true&sd=true
+
 
 ## 📸 Screenshots
 
